@@ -1,0 +1,1 @@
+This is shmande's first git project!
